@@ -1,0 +1,18 @@
+.Number {
+  background-color: pink;
+  font-family: Verdana DejaVu Sans sans-serif;
+}
+
+#sub {
+  color: blue;
+  font-size: 36px;
+}
+.Number.class {
+  font-size: 24px;
+}
+
+#pan {
+  background-color: green;
+  font-size: 24px;
+  font: bold;
+}
